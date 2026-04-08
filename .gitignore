@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dataset (IMPORTANT - don't push large data)
+train/
+test/
+
+# Jupyter (if any)
+.ipynb_checkpoints/
