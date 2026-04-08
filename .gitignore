@@ -19,7 +19,7 @@ Thumbs.db
 # Logs
 *.log
 
-# Dataset (IMPORTANT - don't push large data)
+# Dataset 
 train/
 test/
 
