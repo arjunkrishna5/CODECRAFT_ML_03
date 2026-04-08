@@ -28,6 +28,7 @@ https://github.com/laxmimerit/dog-cat-full-dataset
 The dataset is **not included in this repository** because of its large size.
 Please download it from the link above and organize it as follows:
 
+```text
 project/
 │
 ├── train/
@@ -37,6 +38,7 @@ project/
 ├── test/
 │   ├── cats/
 │   └── dogs/
+```
 
 ---
 
