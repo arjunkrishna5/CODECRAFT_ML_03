@@ -38,6 +38,11 @@ project/
 ├── test/
 │   ├── cats/
 │   └── dogs/
+│
+├── .gitignore
+├── main.py
+├── README.md
+└── requirements.txt
 ```
 
 ---
